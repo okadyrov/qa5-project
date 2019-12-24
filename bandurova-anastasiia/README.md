@@ -1,1 +1,0 @@
-# Anastasiia Bandurova

@@ -1,1 +1,0 @@
-# Sharygin Aleksei

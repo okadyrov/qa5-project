@@ -1,1 +1,0 @@
-# Badmaev_Artur

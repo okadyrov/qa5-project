@@ -1,1 +1,0 @@
-# Vladyslava Iurchenko

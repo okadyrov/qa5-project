@@ -1,1 +1,0 @@
-# Diminscaia Natalia

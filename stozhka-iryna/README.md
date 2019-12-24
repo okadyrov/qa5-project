@@ -1,2 +1,0 @@
-# Iryna Stozhka 
-QA5

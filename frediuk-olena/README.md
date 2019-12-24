@@ -1,2 +1,0 @@
-# Frediuk Olena
-hello

@@ -1,1 +1,0 @@
-# Vladimir Semenovich
