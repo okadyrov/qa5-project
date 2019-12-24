@@ -45,8 +45,6 @@ It redirects User to his/her Slack account.
 
 
 
-
-
 matyeva-aika	Profile
 melnik-aleksandr	Profile
 miroshnikov-maksim	Profile
