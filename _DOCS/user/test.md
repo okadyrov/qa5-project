@@ -1,4 +1,4 @@
 #Frediuk Olena
+Merry Christmas!
 
-#Aika
-This was created to test the same file collab. We will merge to master.
+#AikaThis was created to test the same file collab. We will merge to master.
