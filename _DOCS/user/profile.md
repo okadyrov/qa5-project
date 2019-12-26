@@ -1,8 +1,4 @@
-matsakova-dayana	Profile
-matyeva-aika	Profile
-melnik-aleksandr	Profile
-miroshnikov-maksim	Profile
-nazarov-evgenii	Profile
+
 #### nikolaev-artem	Profile
 
 **Description of the page "personal account" on the website: 
@@ -20,6 +16,3 @@ Under the elements of the group is a graph of the user's progress:
 The graph shows the progress of the user depending on Honor and Completed Task on the time expressed in days of the month.
 The schedule is dynamic. When you hover over a specific point in the graph, you can see the user's progress.
    ____________________________________________________________________
-Omelchenko-Kateryna	Profile
-omuraliev-miradil	Profile
-paromova-anastasiia	Profile
