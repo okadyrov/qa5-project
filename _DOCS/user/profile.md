@@ -1,48 +1,51 @@
 matsakova-dayana	Profile
+
 Profile page is displayed after User clicks Login button on homepage.
 Then User should be redirected to https://app.pasv.us/user/
+Profile page is a display or a summary of User account.
 
-In the upper left corner of the page there is Menu bar with 5 fields (hyperlinks):
-Progress Monitor: 
-font: bold
+There is Menu bar with 5 fields (hyperlinks):
+* Progress Monitor: 
 After clicking on it User goes to the homepage
-Courses:
-font: regular
-After clicking on it User goes to https://app.pasv.us/course
-Cards
-font: regular
-After clicking on it User goes to https://app.pasv.us/flash
-Groups
-font: regular
-After clicking on it User goes to https://app.pasv.us/group
-Diary:
-font: regular
-After clicking on it User goes to https://app.pasv.us/diary
 
-In the upper right corner of the page there is a field(hyperlink) with User name.
-After clicking on it dropdown list pops-up. There are 3 options: 
-Profile
-Settings
-Log out
+* Courses:
+After clicking on it User goes to https://app.pasv.us/course. 
+Here User can find available for him/her list of courses.
 
-To the right of User name there is a coin icon. It shows the number of coins
-User earned.
+* Cards:
+After clicking on it User goes to https://app.pasv.us/flash.
+Here User can find list of FlashCards.
 
-Under Menu bar on the left side of the page there is a User Name.
-This field has the largest font on the page.
+* Groups:
+After clicking on it User goes to https://app.pasv.us/group.
+Here User can find the list of all available lectures divided by topic.
 
-Under it there are 3 small icons and 2 labels:
-1. GitHub icon:
+* Diary:
+After clicking on it User goes to https://app.pasv.us/diary.
+On this page User can create his/her daily report and 
+see daily reports of other members of group.
+
+Profile page also contains a field(hyperlink) with User name.
+
+After clicking on it dropdown list pops-up. There are 3 options:
+
+* Profile: this field is active but it doesn’t redirect User anywhere. 
+So he/she stays on the same page.
+
+* Settings: this field redirects User to https://app.pasv.us/user/edit/ 
+Here he/she can edit his/her Profile.
+
+* Log out: by clicking on it User can log out. 
+
+On Profile page User can also see 3 small icons and 2 labels:
+* GitHub icon:
 It redirects User to his/her GitHub account.
-2. Codewars icon:
+* Codewars icon:
 It redirects User to his/her Codewars account.
-3. Slack icon:
+* Slack icon:
 It redirects User to his/her Slack account.
-4. This label shows the name of the group in which User is studying.
-5. This label shows User role.
-
-
-
+* The label shows the name of the group in which User is studying.
+* This label shows User role. It can be new, learner, student, teacher or admin.
 
 
 matyeva-aika	Profile
