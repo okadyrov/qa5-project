@@ -12,8 +12,20 @@ beylina-polina Roles and Permissions
 
 
 
-# Roles and rights (draft)
-All roles have the right to auth.
+# Roles and permissions 
+## Overview
+Every role contains specific set of permissions. 
+If a user is assigned with several roles, all permissions 
+will be summed up.
+ 
+List of available roles:
+* "new"
+* "learner"
+* "student"
+* "teacher"
+* "course"
+* "quiz"
+* "admin"
 
 ### New 
 Initial role after registration. 
