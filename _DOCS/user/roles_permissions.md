@@ -10,6 +10,7 @@ yulia-liashenko	Roles and Permissions
 sakilov-leonid  Roles and Permissions
 beylina-polina Roles and Permissions
 
+'All roles, except for the Admin role, can be changed and assigned only from the Admin account. To change the role of a member, you must ....
 
 
 # Roles and permissions 
